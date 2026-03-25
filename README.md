@@ -148,9 +148,3 @@ Exécuter les tests :
 ```bash
 python -m pytest -q
 ```
-
----
-
-## État du projet
-
-Ce dépôt contient encore des fichiers historiques sous `src/` qui ne font pas partie du package publié. Le package distribué est celui de `src/fabula/`.
