@@ -46,6 +46,7 @@ print(scores[["idx", "rel_pos", "label", "score"]])
 # Arc narratif lissé
 arc = fb.arc(text, n_points=100, smooth_window=7)
 print(len(arc.x), len(arc.y))
+
 ```
 
 ### CLI
