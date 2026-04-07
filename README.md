@@ -1,6 +1,6 @@
 # Fabula-fr
 
-`fabula-fr` est une bibliothèque Python pour analyser l’évolution du sentiment ou des émotions dans un texte et produire des **arcs narratifs** lissés.
+`fabula-fr` est une bibliothèque Python pour analyser l’évolution du sentiment et/ou des émotions dans un texte et produire des **arcs narratifs** lissés. 
 
 Le package fournit :
 
