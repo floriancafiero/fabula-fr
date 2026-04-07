@@ -148,3 +148,9 @@ Exécuter les tests :
 ```bash
 python -m pytest -q
 ```
+
+## Citation
+
+Si vous utilisez **fabula**, merci de citer :
+
+Cafiero, Florian, et Alexandre Lionnet.  *Des émotions au fil du récit : fabula, un package pour analyser les textes francophones par Transformers*. Communication présentée à Humanistica 2026 (Paris), à paraître dans *Anthology of Computers and the Humanities*.
